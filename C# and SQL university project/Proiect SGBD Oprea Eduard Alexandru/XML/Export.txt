@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Lumanari>
+    <id_lumanare>2</id_lumanare>
+    <nume_lumanare>1ar</nume_lumanare>
+    <aroma_lumanare>1</aroma_lumanare>
+    <pret_lumanare>1</pret_lumanare>
+    <stoc_lumanare>1</stoc_lumanare>
+  </Lumanari>
+  <Lumanari>
+    <id_lumanare>3</id_lumanare>
+    <nume_lumanare>1</nume_lumanare>
+    <aroma_lumanare>1</aroma_lumanare>
+    <pret_lumanare>1</pret_lumanare>
+    <stoc_lumanare>1</stoc_lumanare>
+  </Lumanari>
+</NewDataSet>

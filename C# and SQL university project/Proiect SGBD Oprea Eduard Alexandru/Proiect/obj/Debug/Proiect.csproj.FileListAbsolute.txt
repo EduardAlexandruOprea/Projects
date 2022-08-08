@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Administrator\Desktop\proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Administrator\Desktop\proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.SplashScreen.resources
+C:\Users\Administrator\Desktop\proiect\Proiect\obj\Debug\Proiect.Meniu.resources

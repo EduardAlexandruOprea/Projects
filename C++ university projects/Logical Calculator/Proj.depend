@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1651434355 source:c:\users\administrator\desktop\codeblocks\proj\expressionsolver.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<iomanip>
+	"expressionSolver.h"
+
+1651434355 c:\users\administrator\desktop\codeblocks\proj\expressionsolver.h
+	<string>
+	<vector>
+	<stack>
+	"valueHeader.h"
+
+1651433794 c:\users\administrator\desktop\codeblocks\proj\valueheader.h
+	<iostream>
+	<math.h>
+	<string>
+
+1651433617 source:c:\users\administrator\desktop\codeblocks\proj\logicalmain.cpp
+	<iostream>
+	"expressionSolver.h"
+
+1651433706 source:c:\users\administrator\desktop\codeblocks\proj\valuesource.cpp
+	"valueHeader.h"
+

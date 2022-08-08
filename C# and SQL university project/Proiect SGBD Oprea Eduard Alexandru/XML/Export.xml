@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Lumanari>
+    <id_lumanare>1</id_lumanare>
+    <nume_lumanare>Lumanare 72h</nume_lumanare>
+    <aroma_lumanare>Trandafiri</aroma_lumanare>
+    <pret_lumanare>10</pret_lumanare>
+    <stoc_lumanare>50</stoc_lumanare>
+  </Lumanari>
+  <Lumanari>
+    <id_lumanare>2</id_lumanare>
+    <nume_lumanare>Lumanare 68</nume_lumanare>
+    <aroma_lumanare>Cirese</aroma_lumanare>
+    <pret_lumanare>10</pret_lumanare>
+    <stoc_lumanare>50</stoc_lumanare>
+  </Lumanari>
+  <Lumanari>
+    <id_lumanare>3</id_lumanare>
+    <nume_lumanare>Lumanare 90h</nume_lumanare>
+    <aroma_lumanare>Trandafiri</aroma_lumanare>
+    <pret_lumanare>20</pret_lumanare>
+    <stoc_lumanare>50</stoc_lumanare>
+  </Lumanari>
+  <Lumanari>
+    <id_lumanare>4</id_lumanare>
+    <nume_lumanare>Lumanare 25h</nume_lumanare>
+    <aroma_lumanare>Piersica</aroma_lumanare>
+    <pret_lumanare>40</pret_lumanare>
+    <stoc_lumanare>10</stoc_lumanare>
+  </Lumanari>
+  <Lumanari>
+    <id_lumanare>123</id_lumanare>
+    <nume_lumanare>Lumanare parfumata 48h</nume_lumanare>
+    <aroma_lumanare>Trandafiri</aroma_lumanare>
+    <pret_lumanare>15</pret_lumanare>
+    <stoc_lumanare>20</stoc_lumanare>
+  </Lumanari>
+  <Lumanari>
+    <id_lumanare>12</id_lumanare>
+    <nume_lumanare>Lum</nume_lumanare>
+    <aroma_lumanare>Cirese</aroma_lumanare>
+    <pret_lumanare>15</pret_lumanare>
+    <stoc_lumanare>20</stoc_lumanare>
+  </Lumanari>
+  <Lumanari />
+</NewDataSet>

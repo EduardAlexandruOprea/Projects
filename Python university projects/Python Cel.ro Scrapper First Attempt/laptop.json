@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Laptop ASUS X515MA Intel Celeron N4020 256GB SSD 4GB FullHD Transparent Silver",
+        "price": 239.8,
+        "product_code": "x515ma-ej490",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Gaming Asus FA506IHR AMD\u00a0Ryzen\u00a05\u00a04600H 512GB SSD 8GB nVidia GTX 1650 Ti FullHD 144 Hz Graphite Black",
+        "price": 639.8,
+        "product_code": "fa506ihr-hn019",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop HP 250 G8 Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB Iris Xe FullHD Win10 Pro Asteroid Silver",
+        "price": 767.8,
+        "product_code": "2x7k9ea",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS K413EA Intel Core (11th Gen) i5-1135G7 SSD 512GB 16GB Intel Iris Xe Graphics FullHD FPR Negru",
+        "price": 499.8,
+        "product_code": "k413ea-ek1763",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Gaming ASUS TUF F17 FX706HCB Intel Core (11th Gen) i5-11400H 512GB SSD 8GB RTX 3050 4GB FullHD 144Hz RGB Graphite Black",
+        "price": 779.8,
+        "product_code": "fx706hcb-hx145",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS X515FA Intel Core (10th Gen) i3-10110U SSD 256GB 8GB Intel UHD Graphics FullHD Slate Grey",
+        "price": 339.8,
+        "product_code": "x515fa-bq019",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS 15 M515DA AMD Ryzen 3 3250U 256GB SSD 4GB AMD Radeon Graphics FullHD Slate Grey",
+        "price": 279.8,
+        "product_code": "m515da-bq1243",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus Vivobook 15 X513EA Intel Core (11th Gen) i7-1165G7 512GB SSD 8GB Intel Iris Xe Graphics FullHD FPR Spangle Silver",
+        "price": 579.8,
+        "product_code": "x513ea-bq2887",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS VivoBook 15 OLED K513EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 8GB Intel Iris Xe Full HD FPR Negru",
+        "price": 679.8,
+        "product_code": "k513ea-l12253",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Ultrabook 2in1 ASUS ChromeBook C434TA Intel Core m3- 8100Y 64GB eMMC 4GB FullHD Touch Spangle Silver",
+        "price": 499.8,
+        "product_code": "C434TA-AI0510",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS VivoBook 15 X513EA Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Intel Iris Xe FullHD FPR Bespoke Black",
+        "price": 519.8,
+        "product_code": "x513ea-ej1709",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS Vivobook Pro 15 OLED M3500QC AMD Ryzen 7 5800H 1TB SSD 16GB RTX 3050 4GB FullHD Tastatura iluminata FPR Quiet Blue",
+        "price": 976.8,
+        "product_code": "M3500QC-L1258",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Dell Vostro 3510 Intel Core (11th Gen) i7-1165G7 1TB+256GB SSD 16GB MX350 2GB FullHD Linux T.ilum. Carbon Black",
+        "price": 820.8,
+        "product_code": "n8062vn3510emea_u",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Dell Inspiron G15 5511 Intel Core (11th Gen) i7-11800H 512GB SSD 16GB nVidia GeForce RTX 3050 Ti 4GB FullHD 120Hz Win10",
+        "price": 1137.8,
+        "product_code": "dg155511fi711800h16gb512gb4gw3y-05",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Dell Latitude 5520 Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB Iris Xe FullHD Ubuntu Silver",
+        "price": 980.8,
+        "product_code": "n015l552015emea_ub",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop HP 250 G8 Intel Core (10th Gen) i3-1005G1 256GB SSD 8GB FullHD Win10 Asteroid Silver",
+        "price": 387.8,
+        "product_code": "27k20ea#abb",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus 15 M515DA AMD Ryzen 3 3250U 256GB SSD 4GB AMD Radeon Graphics FullHD Peacock Blue",
+        "price": 279.8,
+        "product_code": "m515da-bq1250",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Lenovo IdeaPad 3 15ITL6 Intel Core (11th Gen) i5-1135G7 512GB SSD 12GB Iris Xe FullHD Sand",
+        "price": 559.8,
+        "product_code": "82H801F8RM",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Ultrabook 2in1 Lenovo Yoga 7 14ITL5 Intel Core (11th Gen) i7-1165G7 1TB SSD 16GB Intel Iris Xe FullHD Touch Win10 T. ilum. FPR Slate Grey",
+        "price": 1139.8,
+        "product_code": "82bh00cgrm",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Gaming Asus ROG Strix SCAR 17 Intel Core (12th Gen) i9-12900H 1TB SSD 32GB RTX 3070 Ti 8GB FullHD 360Hz Black",
+        "price": 2259.8,
+        "product_code": "g733zw-kh070",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS VivoBook 15 OLED M513UA AMD Ryzen 5 5500U 512GB SSD 8GB AMD Radeon FullHD Tastatura iluminata FPR Indie Black",
+        "price": 539.8,
+        "product_code": "m513ua-l1297",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus ZenBook 14 UX425EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 16GB Iris Xe Graphics FullHD Win11 Home Lilac Mist",
+        "price": 996.8,
+        "product_code": "ux425ea-ki841w",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Gaming Asus ROG Zephyrus Duo 16 AMD Ryzen 7 6800H 1TB SSD 32GB GeForce RTX 3060 6GB WUXGA 165Hz Win11 Black",
+        "price": 2282.8,
+        "product_code": "gx650rm-ls028w",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Lenovo V15 G2 ITL Intel Core (11th Gen) i3-1115G4 256GB SSD 8GB FullHD Negru",
+        "price": 379.8,
+        "product_code": "82kb0002rm",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop HP 250 G8 Intel Core (10th Gen) i7-1065G7 256GB SSD 8GB FullHD Win10 Pro Asteroid Silver",
+        "price": 639.8,
+        "product_code": "27j86ea#abb",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus ExpertBook B1 B1500CEAE Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Iris Xe FullHD Star Black",
+        "price": 582.8,
+        "product_code": "b1500ceae-bq3286",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Dell Inspiron 3511 Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB MX350 2GB FullHD Linux Carbon Black",
+        "price": 519.8,
+        "product_code": "di3511i58512mxubu",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus VivoBook K413EA Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Iris Xe FullHD Transparent Silver",
+        "price": 459.8,
+        "product_code": "k413ea-eb1475",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop HP Pavilion Aero 13-be0015nq AMD Ryzen 5 5600U 512GB SSD 8GB AMD Radeon Graphics WUXGA Win11 Pale Rose Gold",
+        "price": 751.8,
+        "product_code": "5d5j6ea",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS 15 X515EA Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Intel Iris Xe FullHD Peacock Blue",
+        "price": 499.8,
+        "product_code": "x515ea-bq851",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus X515EA Intel Core (11th Gen) I5-1135G7 HDD 1TB SSD 512GB 16GB Intel Iris Xe FullHD Slate Grey",
+        "price": 597.8,
+        "product_code": "x515ea-bq1832",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Lenovo IdeaPad 5 14ITL05 Intel Core i7-1165G7 512GB SSD 16GB Intel Iris Xe Graphics Full HD Platinum Grey",
+        "price": 679.8,
+        "product_code": "82fe00r5rm",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS E510MA Intel Celeron N4020 256GB SSD 4GB HD Negru",
+        "price": 239.8,
+        "product_code": "E510MA-BR610",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Dell Inspiron 7610 Plus Intel Core (11th Gen) i7-11800H 1TB SSD 32GB RTX 3060 6GB 16Inch FPR Win10 Pro Mist Blue",
+        "price": 1771.8,
+        "product_code": "di7610i7321rtxw10p",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Gaming Asus TUF A17 FA707RR AMD Ryzen 7 6800H 1TB SSD 16GB nVidia GeForce RTX 3070 8GB FullHD 144Hz Mecha Gray",
+        "price": 1499.8,
+        "product_code": "fa707rr-hx006",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus VivoBook 17 X712EA Intel Core (11th Gen) i5-1135G7 SSD 512GB 8GB Intel Iris Xe HD+ Transparent Silver",
+        "price": 598.8,
+        "product_code": "x712ea-bx571",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS Vivobook 15 OLED M513UA AMD Ryzen 7 5700U 512GB SSD 8GB AMD Radeon FullHD Tast. ilum. Transparent Silver",
+        "price": 579.8,
+        "product_code": "m513ua-l1302",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Lenovo ThinkBook 15 G2 ITL Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB Iris Xe FullHD FPR Tast. ilum. Mineral Grey",
+        "price": 812.8,
+        "product_code": "20VE0044RM",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS VivoBook M515DA AMD Ryzen 3 3250U 512GB SSD 8GB AMD Radeon FullHD Tastatura iluminata Slate Grey",
+        "price": 399.8,
+        "product_code": "m515da-bq1244",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus X415EA Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Intel Irix X Graphics FullHD Gri Resigilat",
+        "price": 459.8,
+        "product_code": "x415ea-eb526_resigilat",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Ultrabook Asus ZenBook UX425EA Intel Core (11th Gen)  i7-1165G7 SSD 512GB 16GB Iris Xe Graphics FullHD Win11 Gri",
+        "price": 999.8,
+        "product_code": "ux425ea-ki840w",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS Vivobook Pro Intel Core (11th Gen) i7-11370H 1TB SSD 16GB nVidia GeForce RTX 3050 4GB OLED FPR Win10 Pro",
+        "price": 1119.8,
+        "product_code": "n7400pc-km007r",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Lenovo V15 G2 ITL Intel Core (11th Gen) i7-1165G7 512GB SSD 8GB Iris Xe FullHD",
+        "price": 639.8,
+        "product_code": "82kb00cbrm",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Lenovo IdeaPad 5P 14ACN6 AMD Ryzen 7 5800U 512GB SSD 16GB AMD Radeon Graphics QHD+ T.Ilum. Cloud Grey",
+        "price": 679.8,
+        "product_code": "82l7007nrm",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop ASUS E410MA Intel Core Celeron N4020 SSD 256GB 4GB Intel UHD Graphics 600 FullHD Negru",
+        "price": 219.8,
+        "product_code": "e410ma-bv1258",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Gaming Gigabyte G5 Intel Core (11th Gen) i5-11400H SSD 512GB 16GB NVIDIA GeForce RTX 3050 4GB FullHD 144Hz Negru",
+        "price": 937.8,
+        "product_code": "g5 gd-51ee123sd",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus ROG Zephyrus M16 GU603ZW Intel Core (12th Gen) i9-12900H 1TB SSD 32GB GeForce RTX 3070 Ti 8GB WQXGA 165Hz FPR Off Black",
+        "price": 2313.8,
+        "product_code": "gu603zw-k8041",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Ultrabook 2in1 Lenovo Yoga 6 13ALC6 AMD Ryzen 5 5500U 512GB SSD 8GB AMD Radeon Graphics FullHD Touch Win10 Abyss Blue",
+        "price": 679.8,
+        "product_code": "82ND002YRM",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Asus VivoBook OLED M513UA AMD Ryzen 7 5700U SSD 512GB 16GB AMD Radeon Graphics FullHD FPR Win11 Home Indie Black",
+        "price": 739.8,
+        "product_code": "m513ua-l1304w",
+        "itemType": "laptop"
+    },
+    {
+        "title": "Laptop Gaming Asus ROG Strix G15 G513IE AMD Ryzen 7 4800H SSD 512GB 8GB GeForce RTX 3050 Ti 4GB FullHD 144Hz Gri",
+        "price": 919.8,
+        "product_code": "g513ie-hn012",
+        "itemType": "laptop"
+    }
+]
