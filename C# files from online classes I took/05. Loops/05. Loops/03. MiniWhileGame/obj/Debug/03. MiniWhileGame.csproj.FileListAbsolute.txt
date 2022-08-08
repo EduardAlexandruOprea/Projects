@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\Loops\03. MiniWhileGame\bin\Debug\_03.MiniWhileGame.exe.config
+C:\Users\Darkbound\source\repos\Loops\03. MiniWhileGame\bin\Debug\_03.MiniWhileGame.exe
+C:\Users\Darkbound\source\repos\Loops\03. MiniWhileGame\bin\Debug\_03.MiniWhileGame.pdb
+C:\Users\Darkbound\source\repos\Loops\03. MiniWhileGame\obj\Debug\03. MiniWhileGame.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\03. MiniWhileGame\obj\Debug\_03.MiniWhileGame.exe
+C:\Users\Darkbound\source\repos\Loops\03. MiniWhileGame\obj\Debug\_03.MiniWhileGame.pdb

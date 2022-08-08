@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\Loops\07. ForLoopsExamples\bin\Debug\_07.ForLoopsExamples.exe.config
+C:\Users\Darkbound\source\repos\Loops\07. ForLoopsExamples\bin\Debug\_07.ForLoopsExamples.exe
+C:\Users\Darkbound\source\repos\Loops\07. ForLoopsExamples\bin\Debug\_07.ForLoopsExamples.pdb
+C:\Users\Darkbound\source\repos\Loops\07. ForLoopsExamples\obj\Debug\07. ForLoopsExamples.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\07. ForLoopsExamples\obj\Debug\_07.ForLoopsExamples.exe
+C:\Users\Darkbound\source\repos\Loops\07. ForLoopsExamples\obj\Debug\_07.ForLoopsExamples.pdb

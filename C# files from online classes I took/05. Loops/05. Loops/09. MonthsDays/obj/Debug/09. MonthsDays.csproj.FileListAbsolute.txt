@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\Loops\09. MonthsDays\bin\Debug\_09.MonthsDays.exe.config
+C:\Users\Darkbound\source\repos\Loops\09. MonthsDays\bin\Debug\_09.MonthsDays.exe
+C:\Users\Darkbound\source\repos\Loops\09. MonthsDays\bin\Debug\_09.MonthsDays.pdb
+C:\Users\Darkbound\source\repos\Loops\09. MonthsDays\obj\Debug\09. MonthsDays.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\09. MonthsDays\obj\Debug\_09.MonthsDays.exe
+C:\Users\Darkbound\source\repos\Loops\09. MonthsDays\obj\Debug\_09.MonthsDays.pdb

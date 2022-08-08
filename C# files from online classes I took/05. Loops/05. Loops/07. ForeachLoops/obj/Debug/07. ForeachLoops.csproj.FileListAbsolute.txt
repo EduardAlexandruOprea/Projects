@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\Loops\07. ForeachLoops\bin\Debug\_07.ForeachLoops.exe.config
+C:\Users\Darkbound\source\repos\Loops\07. ForeachLoops\bin\Debug\_07.ForeachLoops.exe
+C:\Users\Darkbound\source\repos\Loops\07. ForeachLoops\bin\Debug\_07.ForeachLoops.pdb
+C:\Users\Darkbound\source\repos\Loops\07. ForeachLoops\obj\Debug\07. ForeachLoops.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\Loops\07. ForeachLoops\obj\Debug\07. ForeachLoops.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\07. ForeachLoops\obj\Debug\_07.ForeachLoops.exe
+C:\Users\Darkbound\source\repos\Loops\07. ForeachLoops\obj\Debug\_07.ForeachLoops.pdb

@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\Loops\02. RangeInSpecificInput\bin\Debug\_02.RangeInSpecificInput.exe.config
+C:\Users\Darkbound\source\repos\Loops\02. RangeInSpecificInput\bin\Debug\_02.RangeInSpecificInput.exe
+C:\Users\Darkbound\source\repos\Loops\02. RangeInSpecificInput\bin\Debug\_02.RangeInSpecificInput.pdb
+C:\Users\Darkbound\source\repos\Loops\02. RangeInSpecificInput\obj\Debug\02. RangeInSpecificInput.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\Loops\02. RangeInSpecificInput\obj\Debug\02. RangeInSpecificInput.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\02. RangeInSpecificInput\obj\Debug\_02.RangeInSpecificInput.exe
+C:\Users\Darkbound\source\repos\Loops\02. RangeInSpecificInput\obj\Debug\_02.RangeInSpecificInput.pdb

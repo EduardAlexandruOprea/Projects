@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\Loops\05. DoWhile\bin\Debug\_05.DoWhile.exe.config
+C:\Users\Darkbound\source\repos\Loops\05. DoWhile\bin\Debug\_05.DoWhile.exe
+C:\Users\Darkbound\source\repos\Loops\05. DoWhile\bin\Debug\_05.DoWhile.pdb
+C:\Users\Darkbound\source\repos\Loops\05. DoWhile\obj\Debug\05. DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\05. DoWhile\obj\Debug\_05.DoWhile.exe
+C:\Users\Darkbound\source\repos\Loops\05. DoWhile\obj\Debug\_05.DoWhile.pdb

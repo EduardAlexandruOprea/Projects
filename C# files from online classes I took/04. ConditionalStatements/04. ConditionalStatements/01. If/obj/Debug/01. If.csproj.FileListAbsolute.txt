@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\ConditionalStatements\01. If\bin\Debug\_01.If.exe.config
+C:\Users\Darkbound\source\repos\ConditionalStatements\01. If\bin\Debug\_01.If.exe
+C:\Users\Darkbound\source\repos\ConditionalStatements\01. If\bin\Debug\_01.If.pdb
+C:\Users\Darkbound\source\repos\ConditionalStatements\01. If\obj\Debug\01. If.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\ConditionalStatements\01. If\obj\Debug\01. If.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConditionalStatements\01. If\obj\Debug\_01.If.exe
+C:\Users\Darkbound\source\repos\ConditionalStatements\01. If\obj\Debug\_01.If.pdb

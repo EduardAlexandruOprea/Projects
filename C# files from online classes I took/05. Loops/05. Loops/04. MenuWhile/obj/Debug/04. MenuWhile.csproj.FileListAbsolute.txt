@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\Loops\04. MenuWhile\bin\Debug\_04.MenuWhile.exe.config
+C:\Users\Darkbound\source\repos\Loops\04. MenuWhile\bin\Debug\_04.MenuWhile.exe
+C:\Users\Darkbound\source\repos\Loops\04. MenuWhile\bin\Debug\_04.MenuWhile.pdb
+C:\Users\Darkbound\source\repos\Loops\04. MenuWhile\obj\Debug\04. MenuWhile.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\04. MenuWhile\obj\Debug\_04.MenuWhile.exe
+C:\Users\Darkbound\source\repos\Loops\04. MenuWhile\obj\Debug\_04.MenuWhile.pdb

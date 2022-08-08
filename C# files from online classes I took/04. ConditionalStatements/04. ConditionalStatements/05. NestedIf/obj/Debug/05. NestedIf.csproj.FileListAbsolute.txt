@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\ConditionalStatements\05. NestedIf\bin\Debug\_05.NestedIf.exe.config
+C:\Users\Darkbound\source\repos\ConditionalStatements\05. NestedIf\bin\Debug\_05.NestedIf.exe
+C:\Users\Darkbound\source\repos\ConditionalStatements\05. NestedIf\bin\Debug\_05.NestedIf.pdb
+C:\Users\Darkbound\source\repos\ConditionalStatements\05. NestedIf\obj\Debug\05. NestedIf.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\ConditionalStatements\05. NestedIf\obj\Debug\05. NestedIf.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConditionalStatements\05. NestedIf\obj\Debug\_05.NestedIf.exe
+C:\Users\Darkbound\source\repos\ConditionalStatements\05. NestedIf\obj\Debug\_05.NestedIf.pdb

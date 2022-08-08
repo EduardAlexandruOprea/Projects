@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\Loops\08. NestedLoops\bin\Debug\_08.NestedLoops.exe.config
+C:\Users\Darkbound\source\repos\Loops\08. NestedLoops\bin\Debug\_08.NestedLoops.exe
+C:\Users\Darkbound\source\repos\Loops\08. NestedLoops\bin\Debug\_08.NestedLoops.pdb
+C:\Users\Darkbound\source\repos\Loops\08. NestedLoops\obj\Debug\08. NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\Loops\08. NestedLoops\obj\Debug\_08.NestedLoops.exe
+C:\Users\Darkbound\source\repos\Loops\08. NestedLoops\obj\Debug\_08.NestedLoops.pdb

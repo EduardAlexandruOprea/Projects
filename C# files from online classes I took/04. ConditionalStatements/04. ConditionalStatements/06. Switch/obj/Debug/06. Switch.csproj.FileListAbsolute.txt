@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\ConditionalStatements\06. Switch\bin\Debug\_06.Switch.exe.config
+C:\Users\Darkbound\source\repos\ConditionalStatements\06. Switch\bin\Debug\_06.Switch.exe
+C:\Users\Darkbound\source\repos\ConditionalStatements\06. Switch\bin\Debug\_06.Switch.pdb
+C:\Users\Darkbound\source\repos\ConditionalStatements\06. Switch\obj\Debug\06. Switch.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\ConditionalStatements\06. Switch\obj\Debug\06. Switch.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConditionalStatements\06. Switch\obj\Debug\_06.Switch.exe
+C:\Users\Darkbound\source\repos\ConditionalStatements\06. Switch\obj\Debug\_06.Switch.pdb
